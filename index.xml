@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntactic sugar</title>
+    <link>http://kuro.ro/index.xml</link>
+    <description>Recent content on syntactic sugar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
+    <atom:link href="http://kuro.ro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://kuro.ro/about/</link>
+      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      
+      <guid>http://kuro.ro/about/</guid>
+      <description>&lt;p&gt;Just a place where I drop my doodles, photos &amp;amp; diaries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pebble Time 日本語・中国語言語パック</title>
+      <link>http://kuro.ro/blog/pebble-time-%E6%97%A5%E6%9C%AC%E8%AA%9E%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%A8%80%E8%AA%9E%E3%83%91%E3%83%83%E3%82%AF/</link>
+      <pubDate>Tue, 07 Jul 2015 17:54:26 +0900</pubDate>
+      
+      <guid>http://kuro.ro/blog/pebble-time-%E6%97%A5%E6%9C%AC%E8%AA%9E%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%A8%80%E8%AA%9E%E3%83%91%E3%83%83%E3%82%AF/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;img/pebble_img.png&#34; alt=&#34;title_img&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;現在Pebble Timeの3.0 firmwareは英語のみでCJKに対応していない。無印のPebbleは&lt;a href=&#34;https://blog.getpebble.com/2015/03/17/chn-localized/&#34;&gt;中国語対応&lt;/a&gt;の公式beta firewareが存在するようだが、なぜかTimeのほうは対応していない。日本語の公式対応は近いうちにも予定がなさそう。（日本人のPebblerがまだまだ少ないからかな？）&lt;/p&gt;
+
+&lt;p&gt;ネットで調べたところ、中国語、日本語は自作の言語パックが存在するらしい。それぞれインストールしてみたが、どうも前にインストールされたパックは上書きされる仕様になっているので、複数の言語を同時に対応することができない。しかも、無印Pebbleのために作ったもののせいか、メニューの翻訳が不完全で、英語と中国語or日本語が混在している。で、以上の問題を解決するため&lt;a href=&#34;http://wh.to/pebble/index_jp.html&#34;&gt;日本語パック&lt;/a&gt;と&lt;a href=&#34;http://forums.getpebble.com/discussion/21442/no-chinese-in-language-setting/p1&#34;&gt;中国語パック&lt;/a&gt;の漢字ライブラリーを借りて自分で中国語・日本語言語パックを作った。バイリンガルなPebble、是非使ってみてください。&lt;/p&gt;
+
+&lt;h2 id=&#34;download&#34;&gt;Download&lt;/h2&gt;
+
+&lt;p&gt;Ver.5&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/mk1e21f917fxn56/pblp_zhs_zht_ja_v5_light.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v5_light_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/szcuu1h25hk4rre/pblp_zhs_zht_ja_v5_regular.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v5_regular_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/ep76dhllzwzsd6v/pblp_zhs_zht_ja_v5_bold.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v5_bold_font_weight.pbl&lt;/a&gt;
+&lt;img src=&#34;img/pebble_ss.png&#34; alt=&#34;screenshot&#34; /&gt;
+Ver.4&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/7e8frttdj6fcds5/pblp_zhs_zht_ja_v4_light.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v4_light_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/5qjocmbvo6vhtba/pblp_zhs_zht_ja_v4_regular.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v4_regular_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/hmogqkleocna7r0/pblp_zhs_zht_ja_v4_bold.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v4_bold_font_weight.pbl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ver.3&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/5y76ily84itbwd0/pblp_zhs_zht_ja_v3_light.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v3_light_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/dwldkqb97zj227o/pblp_zhs_zht_ja_v3_regular.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v3_regular_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/datatl0nb4u6con/pblp_zhs_zht_ja_v3_bold.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v3_bold_font_weight.pbl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ver.2&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/hh45kt7aha6ikjf/pblp_zhs_zht_ja_v2_light.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v2_light_font_weight.pbl&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://www.dropbox.com/s/qum1jide0w31v21/pblp_zhs_zht_ja_v2_regular.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v2_regular_font_weight.pbl&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ver.1
+&lt;a href=&#34;https://www.dropbox.com/s/sl2pkmbraruycxo/pblp_zhs_zht_ja_v1.pbl?dl=0&#34;&gt;pblp_zhs_zht_ja_v1.pbl&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;注意：これはPebble Time専用の言語パック。無印PebbleのRAMが小さいため、インストールしても正常に動作しない可能性が高い。また、インストールはAndroid端末で行ってください、iOS端末ではインストールできません。&lt;/p&gt;
+
+&lt;p&gt;注意：本語言包只可以用在Pebble Time，初代Pebble不保證支持。另外，安裝請使用Andorid，iOS app目前不支持安裝語言包。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;update-info&#34;&gt;Update Info&lt;/h2&gt;
+
+&lt;h3 id=&#34;version-5&#34;&gt;version 5&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;幾つ漏れていた漢字を追加、現在対応字数10,375&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Regular、boldの14ptフォントのウェイトを変更、通知リストの小さい文字がもっと見やすくなった&lt;/p&gt;
+
+&lt;h6 id=&#34;version-4&#34;&gt;version 4&lt;/h6&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;幾つ漏れていた漢字を追加、現在対応字数10,342&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Regular、Lightの使用フォントを変更。
+Regularは&lt;a href=&#34;https://gist.github.com/medicalwei&#34;&gt;Yao Wei&lt;/a&gt;さんが手を加えたスクリプトでGoogle Noto Sans CJK Thinをベースに作成。よりスムーズなフォント表示を実現&lt;/p&gt;
+
+&lt;h6 id=&#34;version-3&#34;&gt;version 3&lt;/h6&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;幾つ漏れていた漢字を追加、現在対応字数10,265&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bold、Regular、Light3つのフォントウェイトのパックを提供&lt;/p&gt;
+
+&lt;h6 id=&#34;version-2&#34;&gt;version 2&lt;/h6&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;文字を最適なサイズに調整（1行7文字）&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;14pt,28ptフォントの対応漢字数を他のサイズのフォントと同様10,250字に増加&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;RegularとLight2つのフォントウェイトのパックを提供&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;パック容量の削減&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;version-1&#34;&gt;version 1&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;操作メニューの言語が英語のまま&lt;/li&gt;
+&lt;li&gt;通知やアプリでの文字表示が日本語、中国語簡体字、中国語繁体字に対応&lt;/li&gt;
+&lt;li&gt;14ptフォントは漢字3,000字、18pt,24ptフォントは漢字10,250字、28ptフォントは漢字4,000字に表示対応&lt;/li&gt;
+&lt;li&gt;通常フォントはGoogle Noto Sans CJK Demilight、BoldフォントはGoogle Noto Sans CJK Regularを使用&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;usage&#34;&gt;Usage&lt;/h5&gt;
+
+&lt;ol&gt;
+&lt;li&gt;言語パックをDLしdropboxなどクラウドサービスにアップロードする&lt;/li&gt;
+&lt;li&gt;最新のPebble Timeアプリでパックを開く（Adroidのみ）&lt;/li&gt;
+&lt;li&gt;開いたらインストールが自動で開始される&lt;/li&gt;
+&lt;li&gt;プログレスバーが100%になったら言語パック適用完了&lt;br /&gt;
+==iOSのアプリはインストールできないので、注意してください。==&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h5 id=&#34;future-work&#34;&gt;Future Work&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;14ptフォントの漢字表示数を増やす&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;現在の表示フォントはちょっと大きい気がするので、最適なサイズに調整&lt;/del&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h6 id=&#34;reference&#34;&gt;Reference&lt;/h6&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/xndcn/pebble-firmware-utils&#34;&gt;xndcn&amp;rsquo;s firmware utils&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://forums.getpebble.com/discussion/21716/something-about-language-pack-file#latest&#34;&gt;Something about Language Pack File&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://forums.getpebble.com/discussion/21442/no-chinese-in-language-setting/p1&#34;&gt;No Chinese in language setting - No.5 post by seikan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://wh.to/pebble/index_jp.html&#34;&gt;Pebble日本語言語パック&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

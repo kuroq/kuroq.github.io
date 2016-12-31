@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixed on syntactic sugar</title>
+    <link>http://kuro.ro/fixed/index.xml</link>
+    <description>Recent content in Fixed on syntactic sugar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Sat, 22 Aug 2015 06:42:21 -0700</lastBuildDate>
+    <atom:link href="http://kuro.ro/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://kuro.ro/about/</link>
+      <pubDate>Sat, 22 Aug 2015 06:42:21 -0700</pubDate>
+      
+      <guid>http://kuro.ro/about/</guid>
+      <description>&lt;p&gt;Just a place where I drop my doodles, photos &amp;amp; diaries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
