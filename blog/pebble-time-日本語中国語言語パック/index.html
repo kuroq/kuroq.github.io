@@ -142,6 +142,10 @@
 
 <p><img src="img/pebble_img.png" alt="title_img" /></p>
 
+<blockquote>
+<h1 id="r-i-p-pebble">R.I.P  Pebble</h1>
+</blockquote>
+
 <p>現在Pebble Timeの3.0 firmwareは英語のみでCJKに対応していない。無印のPebbleは<a href="https://blog.getpebble.com/2015/03/17/chn-localized/">中国語対応</a>の公式beta firewareが存在するようだが、なぜかTimeのほうは対応していない。日本語の公式対応は近いうちにも予定がなさそう。（日本人のPebblerがまだまだ少ないからかな？）</p>
 
 <p>ネットで調べたところ、中国語、日本語は自作の言語パックが存在するらしい。それぞれインストールしてみたが、どうも前にインストールされたパックは上書きされる仕様になっているので、複数の言語を同時に対応することができない。しかも、無印Pebbleのために作ったもののせいか、メニューの翻訳が不完全で、英語と中国語or日本語が混在している。で、以上の問題を解決するため<a href="http://wh.to/pebble/index_jp.html">日本語パック</a>と<a href="http://forums.getpebble.com/discussion/21442/no-chinese-in-language-setting/p1">中国語パック</a>の漢字ライブラリーを借りて自分で中国語・日本語言語パックを作った。バイリンガルなPebble、是非使ってみてください。</p>
@@ -171,9 +175,9 @@ Ver.4<br />
 <a href="https://www.dropbox.com/s/sl2pkmbraruycxo/pblp_zhs_zht_ja_v1.pbl?dl=0">pblp_zhs_zht_ja_v1.pbl</a></p>
 
 <blockquote>
-<p>注意：これはPebble Time専用の言語パック。無印PebbleのRAMが小さいため、インストールしても正常に動作しない可能性が高い。また、インストールはAndroid端末で行ってください、iOS端末ではインストールできません。</p>
+<p>注意：これはPebble Time専用の言語パック。無印PebbleのRAMが小さいため、インストールしても正常に動作しない可能性が高い。<del>また、インストールはAndroid端末で行ってください、iOS端末ではインストールできません。</del></p>
 
-<p>注意：本語言包只可以用在Pebble Time，初代Pebble不保證支持。另外，安裝請使用Andorid，iOS app目前不支持安裝語言包。</p>
+<p>注意：本語言包只可以用在Pebble Time，初代Pebble不保證支持。<del>另外，安裝請使用Andorid，iOS app目前不支持安裝語言包。</del></p>
 </blockquote>
 
 <h2 id="update-info">Update Info</h2>
@@ -185,20 +189,20 @@ Ver.4<br />
 
 <li><p>Regular、boldの14ptフォントのウェイトを変更、通知リストの小さい文字がもっと見やすくなった</p>
 
-<h6 id="version-4">version 4</h6></li>
+<h3 id="version-4">version 4</h3></li>
 
 <li><p>幾つ漏れていた漢字を追加、現在対応字数10,342</p></li>
 
 <li><p>Regular、Lightの使用フォントを変更。
 Regularは<a href="https://gist.github.com/medicalwei">Yao Wei</a>さんが手を加えたスクリプトでGoogle Noto Sans CJK Thinをベースに作成。よりスムーズなフォント表示を実現</p>
 
-<h6 id="version-3">version 3</h6></li>
+<h3 id="version-3">version 3</h3></li>
 
 <li><p>幾つ漏れていた漢字を追加、現在対応字数10,265</p></li>
 
 <li><p>Bold、Regular、Light3つのフォントウェイトのパックを提供</p>
 
-<h6 id="version-2">version 2</h6></li>
+<h3 id="version-2">version 2</h3></li>
 
 <li><p>文字を最適なサイズに調整（1行7文字）</p></li>
 
@@ -206,36 +210,36 @@ Regularは<a href="https://gist.github.com/medicalwei">Yao Wei</a>さんが手�
 
 <li><p>RegularとLight2つのフォントウェイトのパックを提供</p></li>
 
-<li><p>パック容量の削減</p></li>
+<li><p>パック容量の削減</p>
+
+<h3 id="version-1">version 1</h3></li>
+
+<li><p>操作メニューの言語が英語のまま</p></li>
+
+<li><p>通知やアプリでの文字表示が日本語、中国語簡体字、中国語繁体字に対応</p></li>
+
+<li><p>14ptフォントは漢字3,000字、18pt,24ptフォントは漢字10,250字、28ptフォントは漢字4,000字に表示対応</p></li>
+
+<li><p>通常フォントはGoogle Noto Sans CJK Demilight、BoldフォントはGoogle Noto Sans CJK Regularを使用</p></li>
 </ul>
 
-<h6 id="version-1">version 1</h6>
-
-<ul>
-<li>操作メニューの言語が英語のまま</li>
-<li>通知やアプリでの文字表示が日本語、中国語簡体字、中国語繁体字に対応</li>
-<li>14ptフォントは漢字3,000字、18pt,24ptフォントは漢字10,250字、28ptフォントは漢字4,000字に表示対応</li>
-<li>通常フォントはGoogle Noto Sans CJK Demilight、BoldフォントはGoogle Noto Sans CJK Regularを使用</li>
-</ul>
-
-<h5 id="usage">Usage</h5>
+<h2 id="usage">Usage</h2>
 
 <ol>
 <li>言語パックをDLしdropboxなどクラウドサービスにアップロードする</li>
-<li>最新のPebble Timeアプリでパックを開く（Adroidのみ）</li>
+<li>最新のPebble Timeアプリでパックを開く <del>（Adroidのみ）</del></li>
 <li>開いたらインストールが自動で開始される</li>
-<li>プログレスバーが100%になったら言語パック適用完了<br />
-==iOSのアプリはインストールできないので、注意してください。==</li>
+<li>プログレスバーが100%になったら言語パック適用完了</li>
 </ol>
 
-<h5 id="future-work">Future Work</h5>
+<h3 id="future-work">Future Work</h3>
 
 <ul>
 <li><del>14ptフォントの漢字表示数を増やす</del></li>
 <li><del>現在の表示フォントはちょっと大きい気がするので、最適なサイズに調整</del></li>
 </ul>
 
-<h6 id="reference">Reference</h6>
+<h3 id="reference">Reference</h3>
 
 <ul>
 <li><a href="https://github.com/xndcn/pebble-firmware-utils">xndcn&rsquo;s firmware utils</a></li>
